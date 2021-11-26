@@ -2,7 +2,7 @@ export const Footer = () => {
   return (
     <footer className="h-32 mt-20 sm:mt-36text-lg font-semibold text-gray-400 flex flex-col-reverse sm:flex-row items-center justify-center sm:justify-between">
       <span className="">
-        Code and Design by{" "}
+        abc Code and Design by{" "}
         <a
           href="https://jeffjadulco.com"
           target="_blank"
