@@ -13,7 +13,7 @@ export const Footer = () => {
         </a>
       </span>
       <a
-        href="https://github.com/jeffjadulco/hn"
+        href="https://github.com/uvacoder/hn-feeds"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-yellow-500 border-b border-dotted hover:border-solid hover:border-yellow-500 border-gray-400"
