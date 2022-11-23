@@ -4,12 +4,12 @@ export const Footer = () => {
       <span className="">
         abc Code and Design by{" "}
         <a
-          href="https://jeffjadulco.com"
+          href="https://abclinks.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-yellow-500 border-b border-dotted hover:border-solid hover:border-yellow-500 border-gray-400"
         >
-          Jeff Jadulco
+          uvacoder
         </a>
       </span>
       <a
